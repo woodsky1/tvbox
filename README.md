@@ -81,7 +81,7 @@ V1.1.2版本以下
 
 （4）摸鱼儿：http://我不是.摸鱼儿.top
 
-（5）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+（5）霜辉月明py：https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
 （6）小米小爆脾气：http://xhww.fun/小米/DEMO.json
 
@@ -95,15 +95,17 @@ V1.1.2版本以下
 
 （11）俊于：http://home.jundie.top:81/top98.json
 
-（12）橘子柚：https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt
+（12）橘子柚：https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt
 
-（13）电视（自用）： <https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/jsm.json>
+（13）电视（自用）： <https://raw.githubusercontent.com/qist/tvbox/master/jsm.json>
 
 （14）github代理地址： `https://github.moeyy.xyz https://mirror.ghproxy.com/ https://gh-proxy.com https://ghproxy.net` 选择一个速度快使用
 
 （15） 还可以使用域名: `https://qist.wyfc.qzz.io/jsm.json` cloudflare Pages 构建
  
-（16） 添加潇洒 接口： https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json 或者 https://qist.wyfc.qzz.io/xiaosa/api.json
+（16） 添加潇洒 接口： https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json 或者 https://qist.wyfc.qzz.io/xiaosa/api.json
+ 
+（17）添加饭太硬 接口 https://raw.githubusercontent.com/qist/tvbox/master/fty.json 或者 https://qist.wyfc.qzz.io/fty.json
 
 1. token.json格式说明：
 
